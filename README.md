@@ -1,2 +1,3 @@
 # CountDown
-Un semplice CountDown in HTML/CSS/Js, si inserisco i minuti e i secondi nei due campi di input e inizierà il conto alla rovescia!
+A simple CountDown in HTML/CSS/Js, enter the minutes and seconds in the two input fields and the countdown will start!
+
